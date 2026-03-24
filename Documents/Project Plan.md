@@ -53,6 +53,11 @@ This plan outlines the implementation of a Python application that:
 - `schedule` - Optional scheduling
 - `logging` - Standard logging
 
+**Virtual Environment Requirement:**
+- Create and activate a Python virtual environment before installation
+- Use `python -m venv venv` to create environment
+- Activate with `source venv/bin/activate` (Linux/mac
+
 ## Verification Approach
 - Unit testing for each component
 - Integration testing with sample data
