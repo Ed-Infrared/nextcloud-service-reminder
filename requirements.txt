@@ -1,0 +1,6 @@
+python-dotenv
+caldav
+PyMuPDF
+Pillow
+requests
+schedule
